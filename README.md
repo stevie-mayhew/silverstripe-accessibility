@@ -6,7 +6,7 @@ The module allows editors to specify access keys for pages and have them all lis
 
 ## Requirements
 
- * SilverStripe 3.0+
+ * SilverStripe 3.1+
 
 ## Installation
 
